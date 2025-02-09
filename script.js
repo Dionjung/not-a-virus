@@ -4,8 +4,8 @@ const messages = [
     "If u say no im not going to SD?",
     "Honey please...",
     "Just think about it<33!",
-    "If you say no, I will be really sad and cry...",
-    "I will be very sad...",
+    "Ill leak the blackmail say yes...",
+    "I was kidding but actually say yes",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please Raina ILY! ❤️"
